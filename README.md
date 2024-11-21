@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Management System
+본 프로젝트는 sql 과제를 위해 생성되었습니다.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create git React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
